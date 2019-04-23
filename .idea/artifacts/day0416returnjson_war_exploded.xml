@@ -1,0 +1,39 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="day0416returnjson:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/day0416returnjson_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="day0416returnjson/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="day0416returnjson" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-4.3.18.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-4.3.18.RELEASE" />
+          <element id="library" level="project" name="Spring Security-3.2.5" />
+          <element id="library" level="project" name="Spring Web Services-2.0.2" />
+          <element id="library" level="project" name="Spring Integration-4.0.3" />
+          <element id="library" level="project" name="Spring Batch-2.2.6" />
+          <element id="library" level="project" name="Spring Webflow-2.4.0" />
+          <element id="library" level="project" name="Spring Data JPA-1.3.3" />
+          <element id="file-copy" path="D:/javaStudy/尚硅谷Mybatis视频教程/课件&amp;代码/Jar包/LibrarySupport/asm-3.3.1.jar" />
+          <element id="file-copy" path="D:/javaStudy/尚硅谷Mybatis视频教程/课件&amp;代码/Jar包/LibrarySupport/c3p0-0.9.1.2.jar" />
+          <element id="file-copy" path="D:/javaStudy/尚硅谷Mybatis视频教程/课件&amp;代码/Jar包/LibrarySupport/cglib-2.2.2.jar" />
+          <element id="file-copy" path="D:/javaStudy/尚硅谷Mybatis视频教程/课件&amp;代码/Jar包/LibrarySupport/ehcache-core-2.6.8.jar" />
+          <element id="file-copy" path="D:/javaStudy/尚硅谷Mybatis视频教程/课件&amp;代码/Jar包/LibrarySupport/log4j-1.2.17.jar" />
+          <element id="file-copy" path="D:/javaStudy/尚硅谷Mybatis视频教程/课件&amp;代码/Jar包/LibrarySupport/log4j.jar" />
+          <element id="file-copy" path="D:/javaStudy/尚硅谷Mybatis视频教程/课件&amp;代码/Jar包/LibrarySupport/mybatis-ehcache-1.0.3.jar" />
+          <element id="file-copy" path="D:/javaStudy/尚硅谷Mybatis视频教程/课件&amp;代码/Jar包/LibrarySupport/mybatis-spring-1.3.0.jar" />
+          <element id="file-copy" path="D:/javaStudy/尚硅谷Mybatis视频教程/课件&amp;代码/Jar包/LibrarySupport/mysql-connector-java-5.1.37-bin.jar" />
+          <element id="file-copy" path="D:/javaStudy/尚硅谷Mybatis视频教程/课件&amp;代码/Jar包/LibrarySupport/slf4j-api-1.6.1.jar" />
+          <element id="file-copy" path="D:/javaStudy/尚硅谷Mybatis视频教程/课件&amp;代码/Jar包/LibrarySupport/slf4j-log4j12-1.6.2.jar" />
+          <element id="file-copy" path="D:/javaStudy/尚硅谷Mybatis视频教程/课件&amp;代码/Jar包/mybatis-3.4.1/mybatis-3.4.1.jar" />
+          <element id="file-copy" path="D:/javaStudy/尚硅谷SpringMVC视频教程/1. 尚硅谷_佟刚_SpringMVC_概述/jackson2.6.0新版本4个jar包/jackson-annotations-2.6.0-xh.jar" />
+          <element id="file-copy" path="D:/javaStudy/尚硅谷SpringMVC视频教程/1. 尚硅谷_佟刚_SpringMVC_概述/jackson2.6.0新版本4个jar包/jackson-core-2.6.0-xh.jar" />
+          <element id="file-copy" path="D:/javaStudy/尚硅谷SpringMVC视频教程/1. 尚硅谷_佟刚_SpringMVC_概述/jackson2.6.0新版本4个jar包/jackson-databind-2.6.0-xh.jar" />
+          <element id="file-copy" path="D:/javaStudy/尚硅谷SpringMVC视频教程/1. 尚硅谷_佟刚_SpringMVC_概述/jackson2.6.0新版本4个jar包/jackson-jr-all-2.4.3-xh.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
